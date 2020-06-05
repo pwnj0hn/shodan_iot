@@ -1,0 +1,9 @@
+https://www.shodan.io/search?query=Home+Assistant
+https://www.shodan.io/search?query=HomeMatic
+https://www.shodan.io/search?query=IP-Symcon+Webfront
+https://www.shodan.io/search?query=Plugwise
+https://www.shodan.io/search?query=title:OpenHAB
+https://www.shodan.io/search?query=fhem
+https://www.shodan.io/search?query=HomeSeer
+https://www.shodan.io/search?query=SmartThings
+https://www.shodan.io/search?query=Lutron
