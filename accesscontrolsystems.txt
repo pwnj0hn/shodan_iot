@@ -1,0 +1,8 @@
+#Assa Abloy ARX
+https://www.shodan.io/search?query=%22Server%3A+standalone.Server%22
+
+#Lenel OnGuard
+https://www.shodan.io/search?query=%22Lenel+Embedded+Web+Server%2F1.0%22
+
+#Vanderbilt
+https://www.shodan.io/search?query=SPC4300
